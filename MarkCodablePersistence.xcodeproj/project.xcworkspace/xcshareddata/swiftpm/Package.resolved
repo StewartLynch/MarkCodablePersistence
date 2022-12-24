@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "markcodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MarkCodable/MarkCodable",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3193a6974af06de282d0da05f63f0414829234f0"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/markcodable/swift-cmark.git",
+      "state" : {
+        "revision" : "476f7b4fcf12eba381b4aaed8987006fd8fcec9c",
+        "version" : "0.100.1"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/markcodable/swift-markdown.git",
+      "state" : {
+        "revision" : "009bf792b3a7d12ea32c70938657089e6d068dd6",
+        "version" : "0.100.1"
+      }
+    }
+  ],
+  "version" : 2
+}
